@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dutchdev.play.hosting",
-    "port": 44205,
+    "ip": "62.141.62.29",
+    "port": 59432,
     "version": "",
     "try-creative": false
   },
